@@ -8,6 +8,7 @@ This is a reposity of matlab codes for the work: Sensing of dietary amino acids 
 - You should locate all the file in the same document.
 3. The version of MATLAB we used is [MATLAB R2023a-academic use](https://www.mathworks.cn/products/matlab.html). You can use the more updated version to run the codes.
 4. Click the App-Ons and make sure that you have downloaded the following toolboxs:
+  ![](/readme_fig/rm_fig1.png)
   - Curve Fitting Toolbox (ver. 4.17)
   - Image Aquisition Toolbox (ver. 6.7.1)
   - Image Processing Toolbox (ver. 11.7)
@@ -16,4 +17,4 @@ This is a reposity of matlab codes for the work: Sensing of dietary amino acids 
   - Parallel Computing Toolbox (ver. 7.8)
   - Statistics and Machine Learning Toolbox (ver. 12.5)
   - Symbolic Math Toolbox (ver. 9.3)
-5. 
+5. Use MATLAB to open each individual .m file to run the simulations as desired.
