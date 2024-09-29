@@ -1,5 +1,4 @@
 # HeLab_CalciumWave_Simulation_2024
-![](/adult_ICW_wildtype.avi)
 This is a reposity of matlab codes for the work: Sensing of dietary amino acids and regulation of calcium dynamics in adipose tissues through Adipokinetic hormone in Drosophila. The code was built by Shengyao Luo. 
 ## Instructions to run the code on a personal machine
 1. We strongly recommend you to download the codefile on your personal machine to run. You can download all of the associated code [here](https://github.com/Sy-Luo/HeLab_CalciumWave_Simulation_2024/archive/refs/heads/main.zip).
@@ -19,3 +18,14 @@ This is a reposity of matlab codes for the work: Sensing of dietary amino acids 
   - Statistics and Machine Learning Toolbox (ver. 12.5)
   - Symbolic Math Toolbox (ver. 9.3)
 5. Use MATLAB to open each individual .m file to run the simulations as desired.
+
+## Code for repeated simulations
+You can find the code and corresponding outputs for repeated simulations (with different random number generator seeds) for the manuscript's main figures in the following locations:
+- [random_wave_property.m](/random_wave_property.m)
+
+## Result
+You can find the .avi files as the representative results of the codes of the same name:
+- [adult_ICW_wildtype.avi](/adult_ICW_wildtype.avi)
+- [adult_ICW_inx2i.avi](/adult_ICW_inx2i.avi)
+- [larva_ICW_wildtype.avi](/larva_ICW_wildtype.avi)
+- [larva_ICW_inx2i.avi](/larva_ICW_inx2i.avi)
