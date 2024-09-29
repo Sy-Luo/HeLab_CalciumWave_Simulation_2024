@@ -1,4 +1,5 @@
 # HeLab_CalciumWave_Simulation_2024
+![](adult_ICW_wildtype.avi)
 This is a reposity of matlab codes for the work: Sensing of dietary amino acids and regulation of calcium dynamics in adipose tissues through Adipokinetic hormone in Drosophila. The code was built by Shengyao Luo. 
 ## Instructions to run the code on a personal machine
 1. We strongly recommend you to download the codefile on your personal machine to run. You can download all of the associated code [here](https://github.com/Sy-Luo/HeLab_CalciumWave_Simulation_2024/archive/refs/heads/main.zip).
