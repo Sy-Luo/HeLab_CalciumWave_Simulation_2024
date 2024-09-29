@@ -23,9 +23,11 @@ This is a reposity of matlab codes for the work: Sensing of dietary amino acids 
 You can find the code and corresponding outputs for repeated simulations (with different random number generator seeds) for the manuscript's main figures in the following locations:
 - [random_wave_property.m](/random_wave_property.m)
 
-## Result
+## Result files
 You can find the .avi files as the representative results of the codes of the same name:
 - [adult_ICW_wildtype.avi](/adult_ICW_wildtype.avi)
 - [adult_ICW_inx2i.avi](/adult_ICW_inx2i.avi)
 - [larva_ICW_wildtype.avi](/larva_ICW_wildtype.avi)
 - [larva_ICW_inx2i.avi](/larva_ICW_inx2i.avi)
+
+## Repository last updated: September 30, 2024 0:00AM GMT+8
