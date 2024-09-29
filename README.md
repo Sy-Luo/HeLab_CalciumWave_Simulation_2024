@@ -4,8 +4,8 @@ This is a reposity of matlab codes for the work: Sensing of dietary amino acids 
 1. We strongly recommend you to download the codefile on your personal machine to run. You can download all of the associated code [here](https://github.com/Sy-Luo/HeLab_CalciumWave_Simulation_2024/archive/refs/heads/main.zip).
 - Each notebook is labeled corresponding to its associated figure in the main text of the manuscript.
 - NOTE: The full folder is approximately 10 MB of data as it contains the pre-run simulation output pictures and videos.
-2. Extract the downloaded .zip folder where you would like to run the code.
-- You should locate all the file in the same document.
+2. Extract the downloaded .zip folder where you would like to run the code. 
+- You should locate all the file in the same document, and run MATLAB in this path.
 3. The version of MATLAB we used is [MATLAB R2023a-academic use](https://www.mathworks.cn/products/matlab.html). You can use the more updated version to run the codes.
 4. Click the App-Ons and make sure that you have downloaded the following toolboxs:
   ![](/readme_fig/rm_fig1.png)
